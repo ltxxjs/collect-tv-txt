@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251220 07:47:01,url
+20251221 07:45:56,url
 
 
 freetv,#genre#
@@ -159,6 +159,7 @@ cgtn,https://stream1.freetv.fun/cgtn-34.m3u8$[HD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-4.m3u8$[HD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-5.ctv$[BD]cgtn
 cgtn,https://stream1.freetv.fun/cgtn-7.m3u8$[BD]cgtn
+nba tv,https://stream1.freetv.fun/nba-tv-5.m3u8$[BD]nba_tv
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-1.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-13.m3u8$[BD]tvbs亚洲
 tvbs亚洲,https://stream1.freetv.fun/tvbsya-zhou-15.m3u8$[BD]tvbs亚洲
